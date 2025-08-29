@@ -48,3 +48,4 @@ button:hover {
 .status-waiting { border-left: 5px solid orange; }
 .status-ready { border-left: 5px solid green; }
 .status-issued { border-left: 5px solid blue; }
+
